@@ -1,10 +1,10 @@
 # Facing Device Attribution Problem for Stabilized Video Sequences
 ### Publications
 - S. Mandelli, P. Bestagini, L. Verdoliva, and S. Tubaro,
-*Facing device attribution problem for stabilized video sequences*.
+*Facing Device Attribution Problem for Stabilized Video Sequences*.
 [Available at arXiv](https://arxiv.org/pdf/1811.01820.pdf)
 ### Dataset
-The tested videos comes from Vision dataset [1]:
+The tested videos come from Vision dataset [1]:
 - "nonstabilized_videos_dataset.csv" includes the complete list of investigated non stabilized videos
 - "stabilized_videos_dataset.csv" includes the complete list of investigated stabilized videos
 ### References
