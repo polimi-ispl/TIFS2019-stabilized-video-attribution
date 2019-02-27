@@ -4,7 +4,7 @@
 *Facing Device Attribution Problem for Stabilized Video Sequences*.
 [Available at arXiv](https://arxiv.org/pdf/1811.01820.pdf)
 ### Dataset
-The tested videos come from Vision dataset [1]:
+Videos come from Vision dataset [1]:
 - "nonstabilized_videos_dataset.csv" includes the complete list of investigated non stabilized videos
 - "stabilized_videos_dataset.csv" includes the complete list of investigated stabilized videos
 ### References
