@@ -9,7 +9,7 @@ Videos come from Vision dataset [1]:
 - "stabilized_videos_dataset.csv" includes the complete list of investigated stabilized videos
 ### Code
 In order to run the code, follow these steps:
-- Download the Camera-fingerprint package from "http://dde.binghamton.edu/download/camera_fingerprint" and copy its content in "CameraFingerprint" folder.
+- Download the Camera-fingerprint package from "http://dde.binghamton.edu/download/camera_fingerprint"
 - Run the function "compile.m" in folder "CameraFingerprint/Filter".
 
 In order to compute the reference video fingerprint from videos only:
