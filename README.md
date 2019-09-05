@@ -12,8 +12,11 @@ In order to run the code, follow these steps:
 - Download the Camera-fingerprint package from "http://dde.binghamton.edu/download/camera_fingerprint"
 - Run the function "compile.m" in folder "CameraFingerprint/Filter".
 
-In order to compute the reference video fingerprint from videos only:
+To compute the reference video fingerprint from videos only:
 - Run "compute_Kv.m"
+
+To test the video query:
+- Run "test_query_video.m"
 
 ### References
 - D. Shullani, M. Fontani, M. Iuliani, O. Al Shaya, and A. Piva,
