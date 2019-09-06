@@ -2,7 +2,7 @@
 ### Publications
 - S. Mandelli, P. Bestagini, L. Verdoliva, and S. Tubaro,
 *Facing Device Attribution Problem for Stabilized Video Sequences*.
-[Available at arXiv](https://arxiv.org/pdf/1811.01820.pdf)
+[Available at IEEE Xplore](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721076)
 ### Dataset
 Videos come from Vision dataset [1]:
 - "nonstabilized_videos_dataset.csv" includes the complete list of investigated non stabilized videos
